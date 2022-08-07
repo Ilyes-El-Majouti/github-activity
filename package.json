@@ -1,0 +1,25 @@
+{
+  "name": "github-activity",
+  "version": "0.1.0",
+  "description": "--- <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilyes-El-Majouti/github-activity.git"
+  },
+  "author": "Ilyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilyes-El-Majouti/github-activity/issues"
+  },
+  "homepage": "https://github.com/Ilyes-El-Majouti/github-activity#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.10.0"
+  }
+}
